@@ -7,3 +7,60 @@ html {
   font-family: 'Open Sans', sans-serif;
   font-size: 18px
 }
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
+#soup {
+width: 600px;
+height: 400px;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#quote {
+  position: relative;
+  text-align: left;
+  margin-left: 650px;
+  font-size: 18px;
+}
+
+#recipe-info {
+  position: relative;
+  margin-left: 650px;
+  width: auto;
+  height: auto;
+}
+
+#ingredients {
+  text-align: left;
+  margin-left: 650px;
+  font-size: 20px;
+}
+
+#steps {
+  text-align: left;
+  margin-left: 650px;
+  font-size: 18px;
+}
+
+#cooking-info {
+  position: relative;
+  margin-left: 650px;
+  width: auto;
+  height: auto;
+}
+
+#directions {
+  text-align: left;
+  margin-left: 650px;
+  font-size: 20px;
+}
+
